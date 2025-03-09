@@ -6,8 +6,39 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="7e3d708c">
-        <description>Created after removal of "How to" from Help Instance</description>
-        <accepts>How-to.html</accepts>
+    <rule id="3840fb4a">
+        <description>Created after removal of "This is the first topic" from YOUFIRST - AnyBiz5 인프라 및 소프트웨어 설치 내역
+            [DEV]
+        </description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="2fe425a8">
+        <description>Created after removal of "Overview2" from YOUFIRST - AnyBiz5 인프라 및 소프트웨어 설치 내역 [DEV]</description>
+        <accepts>Overview2.html</accepts>
+    </rule>
+    <rule id="4acbf070">
+        <description>Created after removal of "Overview" from YOUFIRST - AnyBiz5 인프라 및 소프트웨어 설치 내역 [DEV]</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="60121398">
+        <description>Created after removal of "Section Starting Page" from YOUFIRST - AnyBiz5 인프라 및 소프트웨어 설치 내역 [DEV]
+        </description>
+        <accepts>Section-Starting-Page.html</accepts>
+    </rule>
+    <rule id="42767e36">
+        <description>Created after removal of "Reference" from YOUFIRST - AnyBiz5 인프라 및 소프트웨어 설치 내역 [DEV]</description>
+        <accepts>Reference.html</accepts>
+    </rule>
+    <rule id="66afde60">
+        <description>Created after removal of "How to" from YOUFIRST - AnyBiz5 인프라 및 소프트웨어 설치 내역 [DEV]</description>
+        <accepts>How-to2.html</accepts>
+    </rule>
+    <rule id="2044735c">
+        <description>Created after removal of "How to3" from YOUFIRST - AnyBiz5 인프라 및 소프트웨어 설치 내역 [DEV]</description>
+        <accepts>How-to3.html</accepts>
+    </rule>
+    <rule id="51898616">
+        <description>Created after removal of "Starter" from YOUFIRST - AnyBiz5 인프라 및 소프트웨어 설치 내역 [DEV]</description>
+        <accepts>Starter.html</accepts>
     </rule>
 </rules>

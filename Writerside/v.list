@@ -2,4 +2,14 @@
 <!DOCTYPE vars SYSTEM "https://resources.jetbrains.com/writerside/1.0/vars.dtd">
 <vars>
     <var name="product" value="Writerside"/>
+    <var name="site_name" value="YOUFIRST"/>
+    <var name="site_name_kr" value="유퍼스트"/>
+    <var name="stage_kr" value="개발"/>
+    <var name="docker_dir" value="/home/anybiz/docker/local"/>
+    <var name="host_01_type" value="개발-1"/>
+    <var name="host_01_ip" value="192.168.101.48"/>
+    <var name="host_01_ip_ext" value="211.196.32.48"/>
+    <var name="host_02_type" value="개발-2"/>
+    <var name="host_02_ip" value="192.168.101.48"/>
+    <var name="host_02_ip_ext" value="211.196.32.49"/>
 </vars>

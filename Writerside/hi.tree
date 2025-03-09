@@ -2,16 +2,13 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi" name="ParamQuery PRO API 문서" start-page="Default-topic.md">
-    <toc-element topic="Default-topic.md"/>
-    <toc-element topic="Options.md"/>
-    <toc-element topic="How-to.md"/>
-    <toc-element topic="How-to-Topic.topic"/>
-    <toc-element topic="Overview-Topic.topic"/>
-    <toc-element topic="Starter.md"/>
-    <toc-element topic="Overview.md"/>
-    <toc-element topic="Reference.md"/>
-    <toc-element topic="Tutorial.md"/>
+<instance-profile id="hi"
+                 name="YOUFIRST - AnyBiz5 인프라 및 소프트웨어 설치 내역 [DEV]"
+                 start-page="개요.md">
 
-    <toc-element topic="Empty-MD-Topic.md"/>
+    <toc-element topic="개요.md"/>
+    <toc-element topic="설치_소프트웨어.md"/>
+    <toc-element topic="설치-내역.md">
+        <toc-element topic="사전설치-docker.md"/>
+    </toc-element>
 </instance-profile>
